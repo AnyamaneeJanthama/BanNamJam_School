@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/631463024/TestProject/static/css/main.7a6de99b.css",
-    "main.js": "/631463024/TestProject/static/js/main.b644911c.js",
-    "static/js/787.22edae46.chunk.js": "/631463024/TestProject/static/js/787.22edae46.chunk.js",
-    "static/media/teacherbackground.png": "/631463024/TestProject/static/media/teacherbackground.338614a3b082ebd174d4.png",
-    "static/media/background.png": "/631463024/TestProject/static/media/background.da4624c2809822c0119d.png",
-    "index.html": "/631463024/TestProject/index.html",
-    "main.7a6de99b.css.map": "/631463024/TestProject/static/css/main.7a6de99b.css.map",
-    "main.b644911c.js.map": "/631463024/TestProject/static/js/main.b644911c.js.map",
-    "787.22edae46.chunk.js.map": "/631463024/TestProject/static/js/787.22edae46.chunk.js.map"
+    "main.css": "/BanNamJam_School/static/css/main.cd9cc850.css",
+    "main.js": "/BanNamJam_School/static/js/main.620ea308.js",
+    "static/js/787.22edae46.chunk.js": "/BanNamJam_School/static/js/787.22edae46.chunk.js",
+    "static/media/teacherbackground.png": "/BanNamJam_School/static/media/teacherbackground.338614a3b082ebd174d4.png",
+    "static/media/background.png": "/BanNamJam_School/static/media/background.da4624c2809822c0119d.png",
+    "index.html": "/BanNamJam_School/index.html",
+    "main.cd9cc850.css.map": "/BanNamJam_School/static/css/main.cd9cc850.css.map",
+    "main.620ea308.js.map": "/BanNamJam_School/static/js/main.620ea308.js.map",
+    "787.22edae46.chunk.js.map": "/BanNamJam_School/static/js/787.22edae46.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a6de99b.css",
-    "static/js/main.b644911c.js"
+    "static/css/main.cd9cc850.css",
+    "static/js/main.620ea308.js"
   ]
 }
